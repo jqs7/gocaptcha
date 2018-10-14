@@ -1,0 +1,17 @@
+github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737 h1:rRISKWyXfVxvoa702s91Zl5oREZTrR3yv+tXrrX7G/g=
+github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737/go.mod h1:PmM6Mmwb0LSuEubjR8N7PtNe1KxZLtOUHtbeikc5h60=
+github.com/hanguofeng/config v1.0.0 h1:AIpXdv7iEzK4v4Qyov7jeZWIwepiwBfELzfpd2r0dH0=
+github.com/hanguofeng/config v1.0.0/go.mod h1:YX//r7JfVHJCHW/+HP8WqQ2FVDaUGCo0j5z3ddMnrk4=
+github.com/hanguofeng/freetype-go-mirror v0.0.0-20140928112427-cfb10e2cb6de h1:M3YJvI5Soj9Py89DgrOLs98V/ToPCnryF4x2AhzwnJE=
+github.com/hanguofeng/freetype-go-mirror v0.0.0-20140928112427-cfb10e2cb6de/go.mod h1:SBXoZZekqwAW8kIO9RH26Mcc+b37HUWe2mlGREI6CZk=
+github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
+github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+gopkg.in/bufio.v1 v1.0.0-20140618132640-567b2bfa514e h1:wGA78yza6bu/mWcc4QfBuIEHEtc06xdiU0X8sY36yUU=
+gopkg.in/bufio.v1 v1.0.0-20140618132640-567b2bfa514e/go.mod h1:xsQCaysVCudhrYTfzYWe577fCe7Ceci+6qjO2Rdc0Z4=
+gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 h1:qIbj1fsPNlZgppZ+VLlY7N33q108Sa+fhmuc+sWQYwY=
+gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/redis.v2 v2.3.2 h1:GPVIIB/JnL1wvfULefy3qXmPu1nfNu2d0yA09FHgwfs=
+gopkg.in/redis.v2 v2.3.2/go.mod h1:4wl9PJ/CqzeHk3LVq1hNLHH8krm3+AXEgut4jVc++LU=
