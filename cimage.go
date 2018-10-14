@@ -60,7 +60,7 @@ func (m *CImage) drawCircle(x, y, radius int, colorIdx uint8) {
 	}
 }
 
-func (m *CImage) drawString(text string) *CImage {
+func (m *CImage) DrawString(text string) *CImage {
 
 	fg, bg := image.Black, &image.Uniform{color.RGBA{255, 255, 255, 255}}
 	draw.Draw(m, m.Bounds(), bg, image.ZP, draw.Src)
